@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Play>
+        http://home-twilio.s3-us-west-2.amazonaws.com/Vm.mp3 
+    </Play>
+    <Record
+        action="https://3y00pec4r8.execute-api.us-east-1.amazonaws.com/dev/voicemail/?recip_email=vansan27@gmail.com"
+        method="GET"
+        maxLength="180"
+        finishOnKey="*"
+        />
+</Response>

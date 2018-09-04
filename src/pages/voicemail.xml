@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Play>
+        https://api.twilio.com/2010-04-01/Accounts/AC87d12ea231923f8acd0d5e049f2e9d66/Recordings/RE7915cc72f7c0c9b9f80d516da9ef8df8.mp3 
+    </Play>
+    <Record
+        action="https://v8eo9c63a2.execute-api.us-east-1.amazonaws.com/prod/twilio-voicemail/?recip_email=letstalklawrence@gmail.com"
+        method="POST"
+        maxLength="180"
+        finishOnKey="*"
+        />
+</Response>
