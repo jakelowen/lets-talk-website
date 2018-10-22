@@ -12,14 +12,14 @@ const SideBar = () => (
     <div className="row" id="address_block">
       <address>
         <strong>Let's Talk, Inc.</strong>
-        <br /> 765 Ash St
+        <br /> 901 Kentucky, Ste 305
         <br /> Lawrence, KS 66044
         <br /> (785) 764-6004
         <br />
         <span
-          className="e-mail"
-          data-user="ecnerwalklatstel"
-          data-website="moc.liamg"
+          class="e-mail"
+          data-user="ofni"
+          data-website="gro.ecnerwalklatstel"
         />
       </address>
     </div>
@@ -53,9 +53,9 @@ const SideBar = () => (
       <strong>Board of Directors</strong>
       <ul className="list-unstyled">
         <li>Lori Strecker, RN, President</li>
-        <li>Elina Alterman, MSW, Vice President</li>
+        <li>Elina Alterman, MPH, MSW, Vice President</li>
         <li>Maren Santelli, LMSW, Secretary</li>
-        <li>Stephanie Magnuson, MS, Treasurer</li>
+        <li>Stephanie Scarbrough, MS, Treasurer</li>
         <li>Rep. Dennis “Boog” Highberger</li>
         <li>Lindsay Buck, MA</li>
         <li>Michael Showalter</li>

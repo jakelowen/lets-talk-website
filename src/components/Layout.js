@@ -19,12 +19,12 @@ const Layout = ({ children }) => (
       </div>
     </div>
     <footer class="blog-footer">
-      <p>Copyright 2016, Let's Talk, Inc. 765 Ash St, Lawrence, KS 66044. </p>
+      <p>Copyright 2016, Let's Talk, Inc. 901 Kentucky Ste 305, Lawrence, KS 66044. </p>
       <p>
         <span
           class="e-mail"
-          data-user="ecnerwalklatstel"
-          data-website="moc.liamg"
+          data-user="ofni"
+          data-website="gro.ecnerwalklatstel"
         />
       </p>
     </footer>
